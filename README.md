@@ -1,2 +1,4 @@
-# jekyll-blog
-jekyll blog for business
+jekyll-blog
+===========
+
+Jekyll blog course with Ajinkya
